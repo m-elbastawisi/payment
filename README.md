@@ -1,1 +1,2 @@
 # payment
+ you can see who last made a change to the file, how long ago the change was made, the first line of the commit message, and how many people have contributed content to the file. Above the display of the content are a number of buttons and icons. The option we’re going to use right now is to edit by clicking the pencil icon, shown in Figure 3-11. Clicking that icon takes you to the screen shown in Figure 3-12, which will allow you to change the content of the file
